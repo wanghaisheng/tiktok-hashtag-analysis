@@ -1,3 +1,10 @@
+## search all available hashtag 
+check against wayback machine 
+
+## get hot hastag
+
+https://ads.tiktok.com/business/creativecenter/hashtag/%E8%8A%B1%E7%81%AB/pc/en?countryCode=JP&period=7
+
 # TikTok hashtag analysis toolset 
 
 The tool helps to download posts and videos from TikTok for a given set of hashtags over a period of time. Users can create a growing database of posts for specific hashtags which can then be used for further hashtag analysis. It uses the [TikTokApi](https://github.com/davidteather/TikTok-Api) Python package  to download the posts and uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) to download the videos.

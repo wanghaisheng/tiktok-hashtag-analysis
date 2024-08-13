@@ -10,6 +10,8 @@ check against wayback machine
 
 https://ads.tiktok.com/business/creativecenter/hashtag/%E8%8A%B1%E7%81%AB/pc/en?countryCode=JP&period=7
 
+https://github.com/incogiscool/marketing-report
+
 
 ## hashtag details
 

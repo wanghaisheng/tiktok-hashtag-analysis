@@ -1,9 +1,27 @@
-## search all available hashtag 
+## historical hashtags
+
+search all available hashtag 
 check against wayback machine 
 
-## get hot hastag
+
+
+
+## get hot and newly hastag
 
 https://ads.tiktok.com/business/creativecenter/hashtag/%E8%8A%B1%E7%81%AB/pc/en?countryCode=JP&period=7
+
+
+## hashtag details
+
+https://ads.tiktok.com/business/creativecenter/hashtag/yoga/pc/en?countryCode=US&period=7
+
+
+* Related interests
+* Age range
+* Top regions
+
+these are all important to know if you go ad spending 
+
 
 # TikTok hashtag analysis toolset 
 

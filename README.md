@@ -1,3 +1,6 @@
+hashtag difficulty=postscount/viewcounts
+
+
 ## historical hashtags
 
 search all available hashtag 
